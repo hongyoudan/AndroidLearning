@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidLearning</string>
+    <string name="sqlite_name">SQLite</string>
 </resources>
